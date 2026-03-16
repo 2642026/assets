@@ -22,18 +22,18 @@
       { "name": "Ibu", "phone": "+60xxxxxx" }
     ]
   },
-   "syafoundthewan": {
-    "title": "Walimatul Urus Nana & Amsyar",
+  "syafoundthewan": {
+    "title": "Walimatul Urus Ikhwan & Syakirah",
     "heroNames": "Ikhwan & Syakirah",
     "groomFull": "Muhammad Ikhwanuddin Bin Abdul Salam",
     "brideFull": "Nur Syakirah Binti Shafie",
-    "father": "ABDUL SALAM BIN UDIN &  ROHASMI BINTI AWANG",
-    "mother": "SHAFIE BIN NGAH @ JUSOH &  ZALEHA BINTI AWANG",
+    "father": "ABDUL SALAM BIN UDIN & ROHASMI BINTI AWANG",
+    "mother": "SHAFIE BIN NGAH @ JUSOH & ZALEHA BINTI AWANG",
     "dateISO": "2026-05-30T11:30:00+08:00",
-    "dateDisplay": "SABTU,30 May 2026",
+    "dateDisplay": "SABTU, 30 MAY 2026",
     "hijri": "19 Muharram 1448H",
-    "venue": "Banggol Homestay 2,
-    "address": "Subang Perdana, 40150 Shah Alam, Selangor",
+    "venue": "Banggol Homestay 2",
+    "address": "Banggol, Kelantan",
     "waze": "https://waze.com/ul/hw281ye3r1",
     "google": "https://maps.app.goo.gl/AD4KBkxExvnd2rib8",
     "hashtag": "#SyaFoundTheWan",
@@ -47,26 +47,26 @@
       { "name": "Syafeezah(Kakak)", "phone": "+60102037625" }
     ]
   },
-   "faqihahfahmi": {
+  "faqihahfahmi": {
     "title": "Walimatul Urus FAQIHAH & FAHMI",
     "heroNames": "FAQIHAH & FAHMI",
-    "groomFull": "KASHFUL FAHMI BIN MOHD ABD HALIM,
+    "groomFull": "KASHFUL FAHMI BIN MOHD ABD HALIM",
     "brideFull": "ANIS FAQIHAH BINTI MAT JUSOH",
     "father": "MAT JUSOH BIN MD NOR",
     "mother": "CHE YAM BINTI AWANG TEH",
     "dateISO": "2026-05-30T11:30:00+08:00",
-    "dateDisplay": "SABTU,30 May 2026",
+    "dateDisplay": "SABTU, 30 MAY 2026",
     "hijri": "19 Muharram 1448H",
-    "venue": "KAMPUNG CHERANG SEPULAI 16310 BACHOK KELANTAN ",
-    "address": "Subang Perdana, 40150 Shah Alam, Selangor",
+    "venue": "KAMPUNG CHERANG SEPULAI 16310 BACHOK KELANTAN",
+    "address": "Kampung Cherang Sepulai, Bachok, Kelantan",
     "waze": "https://waze.com/ul/hw281ye3r1",
     "google": "https://maps.app.goo.gl/YourLinkHere",
-    "hashtag": "#ThePerfectSurayaWay",
+    "hashtag": "#FaqihahFahmi",
     "songId": "AqU5wDo-O05dlsWO",
     "accName": "MAYBANK",
     "accNum": "1621 0622 4531",
     "contacts": [
       { "name": "Keluarga", "phone": "+60164617581" }
     ]
-  },
+  }
 }
