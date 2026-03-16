@@ -1,72 +1,72 @@
 {
-  "AmberSyamaNana": {
-    "title": "Walimatul Urus Nana & Amsyar",
-    "heroNames": "Nana & Amsyar",
-    "groomFull": "MUHAMMAD AMSYAR BIN ABDULLAH",
-    "brideFull": "FATHINIE LIYANA BINTI HASNAN",
-    "father": "HASNAN BIN MOHD YUSOF",
-    "mother": "NORMALA BINTI ABU NAIM",
-    "dateISO": "2026-07-04T11:30:00+08:00",
-    "dateDisplay": "SABTU, 04 JULAI 2026",
-    "hijri": "19 Muharram 1448H",
-    "venue": "De Melatee Hall",
-    "address": "Subang Perdana, 40150 Shah Alam, Selangor",
-    "waze": "https://waze.com/ul/hw281ye3r1",
-    "google": "https://maps.app.goo.gl/sJUTh9BytBUCTC4c9",
-    "hashtag": "#AmberSyamaNana",
-    "songId": "DUobIN2EMec",
-    "accName": "MAYBANK",
-    "accNum": "1621 0622 4531",
-    "contacts": [
-      { "name": "Bapa", "phone": "+60192994332" },
-      { "name": "Ibu", "phone": "+60xxxxxx" }
-    ]
-  },
-  "syafoundthewan": {
-    "title": "Walimatul Urus Ikhwan & Syakirah",
-    "heroNames": "Ikhwan & Syakirah",
-    "groomFull": "Muhammad Ikhwanuddin Bin Abdul Salam",
-    "brideFull": "Nur Syakirah Binti Shafie",
-    "father": "ABDUL SALAM BIN UDIN & ROHASMI BINTI AWANG",
-    "mother": "SHAFIE BIN NGAH @ JUSOH & ZALEHA BINTI AWANG",
-    "dateISO": "2026-05-30T11:30:00+08:00",
-    "dateDisplay": "SABTU, 30 MAY 2026",
-    "hijri": "19 Muharram 1448H",
-    "venue": "Banggol Homestay 2",
-    "address": "Banggol, Kelantan",
-    "waze": "https://waze.com/ul/hw281ye3r1",
-    "google": "https://maps.app.goo.gl/AD4KBkxExvnd2rib8",
-    "hashtag": "#SyaFoundTheWan",
-    "songId": "AqU5wDo-O05dlsWO",
-    "accName": "MAYBANK",
-    "accNum": "1621 0622 4531",
-    "contacts": [
-      { "name": "Waniey(Kakak)", "phone": "+60193063202" },
-      { "name": "Naim(Adik)", "phone": "+601129353723" },
-      { "name": "Syafiqah(Kakak)", "phone": "+601116322270" },
-      { "name": "Syafeezah(Kakak)", "phone": "+60102037625" }
-    ]
-  },
-  "faqihahfahmi": {
-    "title": "Walimatul Urus FAQIHAH & FAHMI",
-    "heroNames": "FAQIHAH & FAHMI",
-    "groomFull": "KASHFUL FAHMI BIN MOHD ABD HALIM",
-    "brideFull": "ANIS FAQIHAH BINTI MAT JUSOH",
-    "father": "MAT JUSOH BIN MD NOR",
-    "mother": "CHE YAM BINTI AWANG TEH",
-    "dateISO": "2026-05-30T11:30:00+08:00",
-    "dateDisplay": "SABTU, 30 MAY 2026",
-    "hijri": "19 Muharram 1448H",
-    "venue": "KAMPUNG CHERANG SEPULAI 16310 BACHOK KELANTAN",
-    "address": "Kampung Cherang Sepulai, Bachok, Kelantan",
-    "waze": "https://waze.com/ul/hw281ye3r1",
-    "google": "https://maps.app.goo.gl/YourLinkHere",
-    "hashtag": "#FaqihahFahmi",
-    "songId": "AqU5wDo-O05dlsWO",
-    "accName": "MAYBANK",
-    "accNum": "1621 0622 4531",
-    "contacts": [
-      { "name": "Keluarga", "phone": "+60164617581" }
-    ]
-  }
+"AmberSyamaNana": {
+"title": "Walimatul Urus Nana & Amsyar",
+"heroNames": "Nana & Amsyar",
+"groomFull": "MUHAMMAD AMSYAR BIN ABDULLAH",
+"brideFull": "FATHINIE LIYANA BINTI HASNAN",
+"father": "HASNAN BIN MOHD YUSOF",
+"mother": "NORMALA BINTI ABU NAIM",
+"dateISO": "2026-07-04T11:30:00+08:00",
+"dateDisplay": "SABTU, 04 JULAI 2026",
+"hijri": "19 Muharram 1448H",
+"venue": "De Melatee Hall",
+"address": "Subang Perdana, 40150 Shah Alam, Selangor",
+"waze": "https://waze.com/ul/hw281ye3r1",
+"google": "https://maps.app.goo.gl/sJUTh9BytBUCTC4c9",
+"hashtag": "#AmberSyamaNana",
+"songId": "DUobIN2EMec",
+"accName": "MAYBANK",
+"accNum": "162106224531",
+"contacts": [
+{"name": "Bapa", "phone": "+60192994332"},
+{"name": "Ibu", "phone": "+60xxxxxx"}
+]
+},
+"syafoundthewan": {
+"title": "Walimatul Urus Ikhwan & Syakirah",
+"heroNames": "Ikhwan & Syakirah",
+"groomFull": "Muhammad Ikhwanuddin Bin Abdul Salam",
+"brideFull": "Nur Syakirah Binti Shafie",
+"father": "ABDUL SALAM BIN UDIN & ROHASMI BINTI AWANG",
+"mother": "SHAFIE BIN NGAH @ JUSOH & ZALEHA BINTI AWANG",
+"dateISO": "2026-05-30T11:30:00+08:00",
+"dateDisplay": "SABTU, 30 MAY 2026",
+"hijri": "19 Muharram 1448H",
+"venue": "Banggol Homestay 2",
+"address": "Banggol, Kelantan",
+"waze": "https://waze.com/ul/hw281ye3r1",
+"google": "https://maps.app.goo.gl/AD4KBkxExvnd2rib8",
+"hashtag": "#SyaFoundTheWan",
+"songId": "AqU5wDo-O05dlsWO",
+"accName": "MAYBANK",
+"accNum": "162106224531",
+"contacts": [
+{"name": "Waniey(Kakak)", "phone": "+60193063202"},
+{"name": "Naim(Adik)", "phone": "+601129353723"},
+{"name": "Syafiqah(Kakak)", "phone": "+601116322270"},
+{"name": "Syafeezah(Kakak)", "phone": "+60102037625"}
+]
+},
+"faqihahfahmi": {
+"title": "Walimatul Urus FAQIHAH & FAHMI",
+"heroNames": "FAQIHAH & FAHMI",
+"groomFull": "KASHFUL FAHMI BIN MOHD ABD HALIM",
+"brideFull": "ANIS FAQIHAH BINTI MAT JUSOH",
+"father": "MAT JUSOH BIN MD NOR",
+"mother": "CHE YAM BINTI AWANG TEH",
+"dateISO": "2026-05-30T11:30:00+08:00",
+"dateDisplay": "SABTU, 30 MAY 2026",
+"hijri": "19 Muharram 1448H",
+"venue": "KAMPUNG CHERANG SEPULAI 16310 BACHOK KELANTAN",
+"address": "Kampung Cherang Sepulai, Bachok, Kelantan",
+"waze": "https://waze.com/ul/hw281ye3r1",
+"google": "https://maps.app.goo.gl/YourLinkHere",
+"hashtag": "#FaqihahFahmi",
+"songId": "AqU5wDo-O05dlsWO",
+"accName": "MAYBANK",
+"accNum": "162106224531",
+"contacts": [
+{"name": "Keluarga", "phone": "+60164617581"}
+]
+}
 }
